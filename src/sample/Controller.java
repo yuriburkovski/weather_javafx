@@ -68,8 +68,6 @@ public class Controller {
         });
     }
 
-
-
     private static String getUrlContent(String urlAdress) {
         StringBuffer content = new StringBuffer();
 
