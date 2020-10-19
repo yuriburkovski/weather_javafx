@@ -1,5 +1,1 @@
-##### weather_javafx ######
-
-I'm using JavaFX, API, JSON
-
-###########################
+![pogodynka](pogodynka.png)
